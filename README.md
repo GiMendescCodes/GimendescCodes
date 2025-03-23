@@ -1,4 +1,5 @@
-<link rel="stylesheet" type="text/css" href="https://gimendesccodes.github.io/GimendescCode/">
+<link rel="stylesheet" type="text/css" href="https://gimendesccodes.github.io/GimendescCodes/style.css">
+
 
 <div class="glass">
 
