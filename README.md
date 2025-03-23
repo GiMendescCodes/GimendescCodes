@@ -14,12 +14,17 @@
 - 👩🏻‍💻Interessada na graduação em Sistemas de Informação, unindo tecnologia e gestão para criar soluções inovadoras
 
 </div>
+
 <div class="glass">
+  
 ### 📊 Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiMendescCodes&show_icons=true)
+
 <div class="glass">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
