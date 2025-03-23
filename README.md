@@ -16,7 +16,6 @@
 ### 📊 Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes)](https://github.com/anuraghazra/github-readme-stats)
 
-<div class="glass">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiMendescCodes&show_icons=true)
 
 <picture>
