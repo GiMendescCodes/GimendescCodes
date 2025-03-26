@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou a Giovanna Mendes
 
-🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
-
+- 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
 - 📖 Atualmente no **3° ano do Ensino Médio**
 - 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas**
 - ☕ Aprendendo **Programação Oracle - Java Fundamentals**
