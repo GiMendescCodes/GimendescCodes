@@ -1,5 +1,7 @@
 # 👋 Olá! Eu sou a Giovanna Mendes
 
+<img   height=180px width=180px align="right" src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" />
+
 - 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
 - 📖 Atualmente no **3° ano do Ensino Médio**
 - 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas**
@@ -13,9 +15,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiMendescCodes&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GiMendescCodes&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 ---
