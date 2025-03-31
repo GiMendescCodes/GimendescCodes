@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Giovanna Mendes
 
-<img   height=180px width=180px align="right" src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" />
+<img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" />
 
 - 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
 - 📖 Atualmente no **3° ano do Ensino Médio**
