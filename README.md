@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou a Giovanna Mendes
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6165d4&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Giovanna!" alt="Typing SVG" />
+</p>
 
 <img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" />
 
