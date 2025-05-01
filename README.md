@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6165d4&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Giovanna!" alt="Typing SVG" />
 </p>
 
-<img   height=150px width=150px align="right" src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" />
+<img   height=180px width=230px align="right" src="https://i.pinimg.com/originals/34/d3/65/34d3655804017a2169e1004524132484.gif" />
 
 - 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
 - 📖 Atualmente no **3° ano do Ensino Médio**
