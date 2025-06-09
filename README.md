@@ -7,7 +7,7 @@
 - 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
 - 📖 Atualmente no **3° ano do Ensino Médio**
 - 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas**
-- ☕ Aprendendo **Programação Oracle - Java Fundamentals**
+- ☕ Conhecimento básico em **Java**, adquirido por meio do **curso Oracle - Java Fundamentals**
 - 👩🏻‍💻 Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras  
 - 📫 Contato: **silvamendesgiovanna67@gmail.com**
 
