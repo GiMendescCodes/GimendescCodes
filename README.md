@@ -5,8 +5,7 @@
 <img   height=180px width=230px align="right" src="https://i.pinimg.com/originals/34/d3/65/34d3655804017a2169e1004524132484.gif" />
 
 - 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
-- 📖 Atualmente no **3° ano do Ensino Médio**
-- 💻 Cursando **4° semestre de Técnico em Desenvolvimento de Sistemas**
+- 💻 Formada ** Curso Técnico em Desenvolvimento de Sistemas**
 - ☕ Conhecimento básico em **Java**, adquirido por meio do **curso Oracle - Java Fundamentals**
 - 👩🏻‍💻 Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras  
 - 📫 Contato: **silvamendesgiovanna67@gmail.com**
