@@ -6,6 +6,6 @@
 
 - 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
 - 💻 Formada **Curso Técnico em Desenvolvimento de Sistemas**
-- ☕ Conhecimento básico em **Java**, adquirido por meio do **curso Oracle - Java Fundamentals**
+- ☕ Atualmente faço parte da sala de aula de Java Full Stack da Generation Brasil
 - 👩🏻‍💻 Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras  
 - 📫 Contato: **silvamendesgiovanna67@gmail.com**
