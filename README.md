@@ -5,7 +5,7 @@
 <img   height=180px width=230px align="right" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
 
 - 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
-- 💻 Formada **Curso Técnico em Desenvolvimento de Sistemas**
-- ☕ Atualmente faço parte da sala de aula de Java Full Stack da Generation Brasil
+- 💻 Formada no **Curso Técnico em Desenvolvimento de Sistemas**
+- ☕ Atualmente faço parte da sala de aula de **Java Full Stack** da **Generation Brasil**
 - 👩🏻‍💻 Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras  
 - 📫 Contato: **silvamendesgiovanna67@gmail.com**
