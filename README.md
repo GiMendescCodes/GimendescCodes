@@ -9,3 +9,5 @@
 - ☕ Atualmente faço parte da sala de aula de **Java Full Stack** da **Generation Brasil**
 - 👩🏻‍💻 Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras  
 - 📫 Contato: **silvamendesgiovanna67@gmail.com**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GimendescCodes=anuraghazra&layout=compact)
