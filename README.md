@@ -4,14 +4,29 @@
 
 <img height="180px" width="230px" align="right" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
 
-- 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
+## 👋 Sobre mim
+
+- 🎓 Estudante dedicada de tecnologia, apaixonada por programação e inovação  
 - 💻 Formada no **Curso Técnico em Desenvolvimento de Sistemas**  
 - ☕ Atualmente faço parte da turma de **Java Full Stack** da **Generation Brasil**  
 - 👩🏻‍💻 Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras  
-- 📫 Contato: **silvamendesgiovanna67@gmail.com**  
+- 📫 Contato: **silvamendesgiovanna67@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes&layout=compact&theme=dark)
+<br><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiMendescCodes&repo=conta_bancaria&theme=dark)](https://github.com/GiMendescCodes/conta_bancaria)
+## 📊 Estatísticas GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiMendescCodes&theme=dark&show_icons=true)
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes&layout=compact&theme=dark" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=GiMendescCodes&repo=conta_bancaria&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiMendescCodes&show_icons=true&theme=dark" />
+</p>
