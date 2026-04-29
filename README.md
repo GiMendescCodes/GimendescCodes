@@ -10,4 +10,4 @@
 - 👩🏻‍💻 Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras  
 - 📫 Contato: **silvamendesgiovanna67@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GiMendescCodes=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes&layout=compact)
