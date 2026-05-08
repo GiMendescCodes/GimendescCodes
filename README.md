@@ -16,17 +16,11 @@
 
 ## 📊 Estatísticas GitHub
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes&layout=compact&theme=dark" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=GiMendescCodes&repo=conta_bancaria&theme=dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiMendescCodes&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes&layout=compact&theme=dark"/>
+</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiMendescCodes&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=GiMendescCodes&repo=conta_bancaria&theme=dark"/>
 </p>
