@@ -17,10 +17,44 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiMendescCodes&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes&layout=compact&theme=dark"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=GiMendescCodes&show_icons=true&theme=dark&cache_seconds=86400" 
+  />
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMendescCodes&layout=compact&theme=dark&cache_seconds=86400" 
+  />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=GiMendescCodes&repo=conta_bancaria&theme=dark"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=GiMendescCodes&repo=conta_bancaria&theme=dark&cache_seconds=86400" 
+  />
+</p>
+
+## 🚀 Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
+  <img align="center" alt="MySQL" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  
+  <img align="center" alt="Git" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <img align="center" alt="GitHub" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
+
+## 🌐 Onde me encontrar
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
