@@ -16,7 +16,6 @@
 - ◉ Formada no **Curso Técnico em Desenvolvimento de Sistemas**
 - ◉ Atualmente faço parte da turma de **Java Full Stack** da **Generation Brasil**
 - ◉ Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras
-- ◉ Contato: **silvamendesgiovanna67@gmail.com**
 
    </td>
    <td>
@@ -44,9 +43,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="50" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" width="50" title="Eclipse"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="50" title="Figma"/>
-</p>
-
-t="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
