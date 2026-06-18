@@ -65,7 +65,7 @@
 ---
 
 ## ✦ Portfólio
- <a href="https://gimendesccodes.github.io/portfolioGen/">
+ <a href="https://gimendesccodes.github.io/portfolioGen/"></a>
 
 
 ---
